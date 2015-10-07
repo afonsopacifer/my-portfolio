@@ -1,0 +1,54 @@
+doctype html
+html(lang="en")
+
+	// head
+	// -----------------------------------------
+	head
+		// head requests
+		include ./includes/head-requests.jade
+		
+		//Page infos
+		-var title = "The Collection"
+		-var description = "My private projects made ​​on agency :)"
+		
+		// SEO
+		meta(name="keywords" content="")
+		meta(name="description" content=description)
+		meta(name="robots" content="index,follow")
+		title= title
+
+	body
+
+		// header
+		// -----------------------------------------
+		header(class="header" role="banner")
+			h1(class="heading-1") The Collection
+			h2(class="heading-2") My private projects made ​​on agency :)
+			a(href="#" class="btn-default" role="button") For more fun things see my website
+
+		// main
+		// -----------------------------------------
+		main(class="main" role="main" itemprop="mainContentOfPage")
+			
+			div.warning
+				img(src="assets/img/warning.svg" alt="")
+				p.warning-text The code of all projects are private<br> but I have a mirror in my account bitbucket. If necessary I can allow access :)
+
+			- for x in cases
+				article(class="case")
+					img(class="case-img" src="assets/img/cases/"+x.img_name alt="")
+					h1(class="case-name")= x.name
+					a(href=x.bitbucket_url class="case-link") view on Bitbucket
+					hr.line
+					- each y in x.technologies
+						img(src="assets/img/"+y+".svg" alt="")
+
+		// footer
+		// -----------------------------------------
+		footer(class="footer")
+			small(class="licence")
+				a(href="#") Hosted by Github Pages
+
+		// bottom requests
+		// -----------------------------------------
+		include ./includes/bottom-requests.jade

@@ -1,0 +1,160 @@
+@charset "UTF-8"
+
+/* Vendors
+---------------------------------------------- */
+@import "vendors/normalize"
+@import "vendors/flex-grid-framework"
+
+/* Colors
+---------------------------------------------- */
+highlight = #ddc41f
+complementary-dark = #b8b8b8
+complementary-light = #e8e8e8
+
+/* Global
+---------------------------------------------- */
+body
+	font-family 'Roboto', sans-serif
+	background-color #fff
+
+/* header
+---------------------------------------------- */
+.header
+	text-align center
+	background-image url("../img/header-bg.jpg")
+	background-repeat no-repeat
+	background-position center
+	border-top 4px solid highlight
+	padding 85px 0
+
+@media screen and (max-width 1000px)
+	.header
+		background-size auto 100%
+
+@media screen and (max-width 666px)
+	.header
+		padding 50px 0
+
+.heading-1
+	margin 10px 20px
+	color #fff
+	font-size 65px
+	font-weight 400
+	color complementary-light
+
+@media screen and (max-width 666px)
+	.heading-1
+		font-size 38px
+
+.heading-2
+	margin 15px 50px
+	color complementary-dark
+	font-size 28px
+	font-weight 300
+
+@media screen and (max-width 666px)
+	.heading-2
+		font-size 16px
+
+.btn-default
+	background-color highlight
+	padding 8px 15px
+	text-decoration none
+	display inline-block
+	color #474747
+	font-weight 400
+	margin 15px 5px
+	-webkit-transition background-color .3s
+	transition background-color .3s
+
+.btn-default:hover
+	background-color #ffe53a
+
+/* main
+---------------------------------------------- */
+.main
+	row()
+	padding 60px 0
+
+.warning
+	col(12)
+	text-align center
+	margin-bottom 60px
+
+.warning-text
+	color #474747
+	font-size 22px
+	font-weight 300
+
+@media screen and (max-width 666px)
+	.warning-text
+		font-size 18px
+
+.case
+	col(4)
+	background-color #e8e8e8
+	text-align center
+	padding 20px 0
+	border-top 4px solid highlight
+	-webkit-box-shadow 4px 4px 10px 0px rgba(50, 50, 50, 0.64)
+	-moz-box-shadow 4px 4px 10px 0px rgba(50, 50, 50, 0.64)
+	box-shadow 4px 4px 10px 0px rgba(50, 50, 50, 0.64)
+	margin-top 10px
+	margin-bottom 10px
+
+.case-img
+	width 100%
+	max-width 370px
+
+.case-name
+	margin 10px 0
+	font-weight 300
+	font-size 28px
+	color #474747
+
+.case-link
+	margin 5px 0
+	display inline-block
+	font-weight 300
+	color #474747
+	text-decoration none
+
+.line
+	border 0px
+	height 1px
+	background-color #939393
+	width 80%
+	margin 20px auto
+
+@media screen and (max-width 870px)
+	.case
+		col(4)
+
+@media screen and (max-width 670px)
+	.case
+		col(6)
+
+@media screen and (max-width 410px)
+	.case
+		width 89%
+		margin 15px auto
+
+/* footer
+---------------------------------------------- */
+.footer
+	padding 10px 0
+	background-color highlight
+	text-align center
+
+.licence
+	color #fff
+	font-size 16px
+
+.licence a
+	color #474747
+	text-decoration none
+	-webkit-transition opacity .3s
+	transition opacity .3s
+
+.licence a:hover
+	opacity .7
