@@ -1,4 +1,4 @@
-# [The Collection](https://github.com/afonsopacifer/the-collection)
+# [The Collection](http://afonsopacifer.github.io/the-collection/)
 
 > My private projects made ​​on agencies :)
 
