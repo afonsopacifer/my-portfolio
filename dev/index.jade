@@ -23,8 +23,8 @@ html(lang="en")
 		// -----------------------------------------
 		header(class="header" role="banner")
 			h1(class="heading-1") The Collection
-			h2(class="heading-2") My private projects made ​​on agency :)
-			a(href="#" class="btn-default" role="button") For more fun things see my website
+			h2(class="heading-2") My private projects made ​​on agencies :)
+			a(href="http://afonsopacifer.com/" class="btn-default" role="button" target="_blank") See more fun things on my site
 
 		// main
 		// -----------------------------------------
@@ -32,22 +32,21 @@ html(lang="en")
 			
 			div.warning
 				img(src="assets/img/warning.svg" alt="")
-				p.warning-text The code of all projects are private<br> but I have a mirror in my account bitbucket. If necessary I can allow access :)
-
+				p.warning-text The code of all projects are private <br> but I have a mirror in my bitbucket account. If necessary I can allow access :)
 			- for x in cases
 				article(class="case")
-					img(class="case-img" src="assets/img/cases/"+x.img_name alt="")
+					img(class="case-img" src="assets/img/cases/"+x.img_name alt=x.name)
 					h1(class="case-name")= x.name
-					a(href=x.bitbucket_url class="case-link") view on Bitbucket
+					a(href=x.bitbucket_url class="case-link" target="_blank") View in Bitbucket
 					hr.line
 					- each y in x.technologies
-						img(src="assets/img/"+y+".svg" alt="")
+						img(src="assets/img/"+y+".svg" alt=y)
 
 		// footer
 		// -----------------------------------------
 		footer(class="footer")
 			small(class="licence")
-				a(href="#") Hosted by Github Pages
+				a(href="https://pages.github.com/" target="_blank") Hosted by Github Pages
 
 		// bottom requests
 		// -----------------------------------------
