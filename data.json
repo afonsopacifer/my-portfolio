@@ -16,7 +16,7 @@
       "name":"Sieiro Assessoria",
       "img_name":"sieiro.jpg",
       "bitbucket_url":"#",
-      "technologies":["html5","stylus","flex-grid","jquery","gruntjs","php","mysql"]
+      "technologies":["html5","stylus","flex-grid","jquery","gruntjs"]
     }
   ]
 }
