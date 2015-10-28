@@ -14,10 +14,10 @@
 
 ## Tasks list
 
-- Compile, concat and minify all files: `$ grunt build`
-- Watch the files to build and start a static server: `$ grunt serve`
-- Autoprefixer the css: `$ grunt autoprefixer`
-- Deploy for gh-pages: `$ grunt deploy`
+- `$ grunt build`: Compile, concat and minify all files
+- `$ grunt serve`: Watch the files to build and start a static server
+- `$ grunt autoprefixer`: Autoprefixer the css
+- `$ grunt deploy`: Deploy for gh-pages`$ grunt deploy`
 
 ## Contributing
 
