@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100"><path d="M50 2C23.49 2 2 23.49 2 50s21.49 48 48 48 48-21.49 48-48S76.51 2 50 2m-7.107 16.495h14.214v43.107H42.893V18.495M50 83.835c-4.236 0-7.67-3.434-7.67-7.67s3.434-7.67 7.67-7.67 7.67 3.434 7.67 7.67-3.434 7.67-7.67 7.67z" fill-rule="evenodd" fill="#ddc41f"/></svg>
+<?xml version="1.0"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100">
+    <desc iVinci="yes" version="4.6" gridStep="20" showGrid="no" snapToGrid="no" codePlatform="0"/>
+    <g id="Layer1" name="Layer 1" opacity="1">
+        <g id="Shape1">
+            <desc shapeID="1" type="0" basicInfo-basicType="0" basicInfo-roundedRectRadius="12" basicInfo-polygonSides="6" basicInfo-starPoints="5" bounding="rect(-206.001,-206,412.002,412)" text="" font-familyName="" font-pixelSize="20" font-bold="0" font-underline="0" font-alignment="1" strokeStyle="0" markerStart="0" markerEnd="0" shadowEnabled="0" shadowOffsetX="0" shadowOffsetY="2" shadowBlur="4" shadowOpacity="160" blurEnabled="0" blurRadius="4" transform="matrix(0.233012,0,0,0.233011,50,50)" pers-center="0,0" pers-size="0,0" pers-start="0,0" pers-end="0,0" locked="0" mesh="" flag=""/>
+            <path id="shapePath1" d="M50.0005,1.99963 C23.49,1.99963 1.99939,23.4901 1.99939,50.0002 C1.99939,76.5099 23.49,98.0004 50.0005,98.0004 C76.5102,98.0004 98.0006,76.5099 98.0006,50.0002 C98.0006,23.4901 76.51,1.99963 50.0005,1.99963 M42.8932,18.495 L57.1069,18.495 L57.1069,61.6019 L42.8932,61.6019 L42.8932,18.495 M50,83.8354 C45.7639,83.8354 42.33,80.4012 42.33,76.1651 C42.33,71.9289 45.7639,68.4948 50,68.4948 C54.2362,68.4948 57.67,71.9289 57.67,76.1651 C57.67,80.4012 54.2362,83.8354 50,83.8354 Z" style="stroke:none;fill-rule:evenodd;fill:#ddc41f;fill-opacity:1;"/>
+        </g>
+    </g>
+</svg>
