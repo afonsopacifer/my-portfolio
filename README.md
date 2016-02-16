@@ -23,6 +23,6 @@
 
 Want to contribute? [Follow these recommendations](https://github.com/afonsopacifer/the-collection/blob/master/CONTRIBUTING.md).
 
-## Licence
+## License
 
-[MIT Licence](https://github.com/afonsopacifer/the-collection/blob/master/LICENCE.md) © Afonso Pacifer
+[MIT License](https://github.com/afonsopacifer/the-collection/blob/master/LICENSE.md) © Afonso Pacifer
