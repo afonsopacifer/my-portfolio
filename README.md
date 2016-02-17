@@ -1,8 +1,8 @@
-# [The Collection](http://afonsopacifer.github.io/the-collection/)
+# [My Portfolio ;)](http://afonsopacifer.github.io/my-portfolio/)
 
-> My private projects made ​​on agencies :)
+> List of some cool projects
 
-![the collection website](the-collection-website.jpg)
+![the collection website](my-portfolio-website.jpg)
 
 ## Insert new content
 
@@ -21,8 +21,8 @@
 
 ## Contributing
 
-Want to contribute? [Follow these recommendations](https://github.com/afonsopacifer/the-collection/blob/master/CONTRIBUTING.md).
+Want to contribute? [Follow these recommendations](https://github.com/afonsopacifer/my-portfolio/blob/master/CONTRIBUTING.md).
 
 ## License
 
-[MIT License](https://github.com/afonsopacifer/the-collection/blob/master/LICENSE.md) © Afonso Pacifer
+[MIT License](https://github.com/afonsopacifer/my-portfolio/blob/master/LICENSE.md) © Afonso Pacifer
