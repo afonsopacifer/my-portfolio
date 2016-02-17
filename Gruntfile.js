@@ -20,11 +20,16 @@ module.exports = function( grunt ) {
       jd: {
         files: ['dev/*.jade','dev/**/*.jade'],
         tasks: ['jade:compile'],
-      },
+      }, 
 
       styl: {
         files: ['dev/assets/styles/*.styl','dev/assets/**/*.styl'],
         tasks: ['stylus:compile'],
+      },
+
+      json: {
+        files: ['data.json'],
+        tasks: ['build'],
       },
 
       javascript: {
