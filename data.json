@@ -3,110 +3,110 @@
     {
       "name":"Levanta e Vem Treinar",
       "img_name":"lvt.jpg",
-      "bitbucket_url":"#",
+      "url":"http://www.grupolvt.com.br/",
       "technologies":["html5","sass","jquery","gruntjs"]
-    },
-    {
-      "name":"Metalprim",
-      "img_name":"metalprim.jpg",
-      "bitbucket_url":"#",
-      "technologies":["html5","css3","jquery","gruntjs"]
-    },
-    {
-      "name":"3R Corpus",
-      "img_name":"3r-corpus.jpg",
-      "bitbucket_url":"#",
-      "technologies":["html5"]
-    },
-    {
-      "name":"Armario Facil",
-      "img_name":"armario-facil.jpg",
-      "bitbucket_url":"#",
-      "technologies":["html5"]
-    },
-    {
-      "name":"As Novas Brasileiras",
-      "img_name":"as-novas-brasileiras.jpg",
-      "bitbucket_url":"#",
-      "technologies":["html5"]
-    },
-    {
-      "name":"Bond Papo",
-      "img_name":"bond-papo.jpg",
-      "bitbucket_url":"#",
-      "technologies":["html5"]
-    },
-    {
-      "name":"Branca Comercio",
-      "img_name":"branca.jpg",
-      "bitbucket_url":"#",
-      "technologies":["html5"]
-    },
-    {
-      "name":"Contecsis",
-      "img_name":"contecsis.jpg",
-      "bitbucket_url":"#",
-      "technologies":["html5"]
     },
     {
       "name":"Edfran Modulados",
       "img_name":"edfran.jpg",
-      "bitbucket_url":"#",
-      "technologies":["html5"]
-    },
-    {
-      "name":"Marcio Decor",
-      "img_name":"marcio-decor.jpg",
-      "bitbucket_url":"#",
+      "url":"http://www.italineajacarepagua.com.br/",
       "technologies":["html5"]
     },
     {
       "name":"Mecfix",
       "img_name":"mecfix.jpg",
-      "bitbucket_url":"#",
-      "technologies":["html5"]
-    },
-    {
-      "name":"Pechincha Car",
-      "img_name":"pechincha-car.jpg",
-      "bitbucket_url":"#",
+      "url":"http://www.mecfix.com.br/",
       "technologies":["html5"]
     },
     {
       "name":"Queiroz Diver",
       "img_name":"queiroz-diver.jpg",
-      "bitbucket_url":"#",
-      "technologies":["html5"]
-    },
-    {
-      "name":"Reinventta",
-      "img_name":"reinventta.jpg",
-      "bitbucket_url":"#",
+      "url":"http://www.queirozdiver.com.br/",
       "technologies":["html5"]
     },
     {
       "name":"Riopet",
       "img_name":"riopet.jpg",
-      "bitbucket_url":"#",
-      "technologies":["html5"]
-    },
-    {
-      "name":"Toca da Paixão",
-      "img_name":"toca.jpg",
-      "bitbucket_url":"#",
-      "technologies":["html5"]
-    },
-    {
-      "name":"Um Olhar Carioca",
-      "img_name":"um-olhar-carioca.jpg",
-      "bitbucket_url":"#",
+      "url":"http://riopet.com.br/",
       "technologies":["html5"]
     },
     {
       "name":"Sieiro Assessoria",
       "img_name":"sieiro.jpg",
-      "bitbucket_url":"#",
+      "url":"http://www.sieiroassessoria.com.br/index.php",
       "technologies":["html5","stylus","flex-grid","jquery","gruntjs"]
+    },
+    {
+      "name":"Toca da Paixão",
+      "img_name":"toca.jpg",
+      "url":"",
+      "technologies":["html5"]
+    },
+    {
+      "name":"Um Olhar Carioca",
+      "img_name":"um-olhar-carioca.jpg",
+      "url":"",
+      "technologies":["html5"]
+    },
+    {
+      "name":"Reinventta",
+      "img_name":"reinventta.jpg",
+      "url":"",
+      "technologies":["html5"]
+    },
+    {
+      "name":"Pechincha Car",
+      "img_name":"pechincha-car.jpg",
+      "url":"",
+      "technologies":["html5"]
+    },
+    {
+      "name":"Marcio Decor",
+      "img_name":"marcio-decor.jpg",
+      "url":"",
+      "technologies":["html5"]
+    },
+    {
+      "name":"Metalprim",
+      "img_name":"metalprim.jpg",
+      "url":"",
+      "technologies":["html5","css3","jquery","gruntjs"]
+    },
+    {
+      "name":"3R Corpus",
+      "img_name":"3r-corpus.jpg",
+      "url":"",
+      "technologies":["html5"]
+    },
+    {
+      "name":"Armario Facil",
+      "img_name":"armario-facil.jpg",
+      "url":"",
+      "technologies":["html5"]
+    },
+    {
+      "name":"As Novas Brasileiras",
+      "img_name":"as-novas-brasileiras.jpg",
+      "url":"",
+      "technologies":["html5"]
+    },
+    {
+      "name":"Bond Papo",
+      "img_name":"bond-papo.jpg",
+      "url":"",
+      "technologies":["html5"]
+    },
+    {
+      "name":"Branca Comercio",
+      "img_name":"branca.jpg",
+      "url":"",
+      "technologies":["html5"]
+    },
+    {
+      "name":"Contecsis",
+      "img_name":"contecsis.jpg",
+      "url":"",
+      "technologies":["html5"]
     }
   ]
 }
